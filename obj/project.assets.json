@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hania\\source\\repos\\SportsStore3\\SportsStore3.csproj",
+      "projectUniqueName": "C:\\Users\\Hania\\source\\repos\\SPORTS_STORE\\SportsStore3_git\\SportsStore3\\SportsStore3.csproj",
       "projectName": "SportsStore3",
-      "projectPath": "C:\\Users\\Hania\\source\\repos\\SportsStore3\\SportsStore3.csproj",
+      "projectPath": "C:\\Users\\Hania\\source\\repos\\SPORTS_STORE\\SportsStore3_git\\SportsStore3\\SportsStore3.csproj",
       "packagesPath": "C:\\Users\\Hania\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hania\\source\\repos\\SportsStore3\\obj\\",
+      "outputPath": "C:\\Users\\Hania\\source\\repos\\SPORTS_STORE\\SportsStore3_git\\SportsStore3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ C:\Users\Hania\source\repos\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.As
 C:\Users\Hania\source\repos\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.AssemblyInfo.cs
 C:\Users\Hania\source\repos\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.dll
 C:\Users\Hania\source\repos\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.pdb
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\bin\Debug\netcoreapp2.0\SportsStore3.deps.json
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\bin\Debug\netcoreapp2.0\SportsStore3.runtimeconfig.json
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\bin\Debug\netcoreapp2.0\SportsStore3.runtimeconfig.dev.json
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\bin\Debug\netcoreapp2.0\SportsStore3.dll
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\bin\Debug\netcoreapp2.0\SportsStore3.pdb
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.csprojAssemblyReference.cache
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.csproj.CoreCompileInputs.cache
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.AssemblyInfoInputs.cache
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.AssemblyInfo.cs
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.dll
+C:\Users\Hania\source\repos\SPORTS_STORE\SportsStore3_git\SportsStore3\obj\Debug\netcoreapp2.0\SportsStore3.pdb
